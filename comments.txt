@@ -1,0 +1,10 @@
+/*Guisheng Chen  OOP244 section D*/
+Citation: 
+1.Current time reference to youtube vedio;
+ https://www.youtube.com/watch?v=qXB5icpo0qY;
+
+Enhancements:
+1.delete the error message before getting the new item input so that the the same object
+with new input can display the item information.
+2.used loadRecs() to load all list in Menu() function's option 5.
+3.made error.message() public to clear error message in ms4.
